@@ -46,7 +46,7 @@
 </p>
 
 
- ## Languages I code In 🧑‍💻
+ ## Languages and Tools 🧑‍💻
  
  
 <p align="left">
